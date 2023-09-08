@@ -32,8 +32,8 @@ This GitHub repository houses a Tableau project dedicated to analyzing and visua
 
 4. **Price-Reviews Correlation:** Our dashboard delves into the correlation between property prices and customer reviews. This analysis sheds light on the influence of pricing on customer satisfaction and overall property performance.
 
-**How to Utilize the Repository:** The repository encompasses Tableau project files, comprising the dataset employed for analysis and the Tableau workbook (.twb). Users can download and execute the Tableau workbook to engage with the dashboard, exploring insights visually and interactively.
+**How to Utilize the Repository:** The repository encompasses Tableau project files, comprising the dataset employed for analysis.
 
-**Contributions:** We welcome contributions to this project. Users are encouraged to raise issues, propose enhancements, and offer feedback through the GitHub repository's issue tracking system.
+**Contributions:** We welcome contributions to this project. Users are encouraged to raise issues, propose enhancements, and offer feedback through the GitHub repository's issue-tracking system.
 
 *Note: This project was developed as part of the Coding Ninjas Data Science & ML course.*
